@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-generator": "^4.16.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^6.8.3",
+    "nodemon": "^2.0.22",
+    "npm": "^9.2.0"
+  },
+  "name": "nodejstutoriials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
